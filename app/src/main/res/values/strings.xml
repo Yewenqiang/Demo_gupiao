@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Demo_gupiao</string>
+    <string-array name="ctype">
+        <item>1.0%</item>
+        <item>2.0#</item>
+        <item>军人证</item>
+        <item>工作证</item>
+        <item>其他</item>
+    </string-array>
+
+</resources>
